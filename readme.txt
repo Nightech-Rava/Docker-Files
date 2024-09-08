@@ -1,7 +1,7 @@
 Directories structure:
 .
 ├── docker-compose.yml
-├── Dockerfile
+├── dockerfile
 ├── dump
 │   └── myDb.sql
 ├── sessions
